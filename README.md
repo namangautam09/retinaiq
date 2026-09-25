@@ -5,7 +5,7 @@ Live site of the RetinaIQ project: 10 deep networks (EfficientNet-B5 + ConvNeXt)
 
 - **AI Validated Cases**: all 313 held-out test photos, the doctor's grade next to the model's, with attention maps.
 - **Results**: referable AUC 0.988, sensitivity 95.1%, quadratic weighted kappa 0.944 on the held-out test set.
-- **Process Live**: a recorded run. The model runs on-device on an NVIDIA Jetson GPU (~1 s per eye).
+- **Process Live**: a recorded run. The model runs on-device on an NVIDIA GB10 GPU (~1 s per eye).
 
 Research prototype, not for clinical diagnosis. Built by Naman Gautam.
 
