@@ -1,5 +1,9 @@
 # RetinaIQ: AI diabetic retinopathy screening
 
+### 👉 [Open the live site: retinaiq.pages.dev](https://retinaiq.pages.dev)
+
+[![RetinaIQ home page](og-image.jpg)](https://retinaiq.pages.dev)
+
 Live site of the RetinaIQ project: 10 deep networks (EfficientNet-B5 + ConvNeXt) grade a colour fundus photo on the
 5-level ICDR scale, decide whether the eye needs referral and show where they looked (Grad-CAM).
 
